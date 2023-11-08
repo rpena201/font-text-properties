@@ -140,7 +140,7 @@ dl, ol, main ul{
 
 dt{
 	/* make this font display in bold weight */
-	font-display: bold;
+	font-weight: bold;
 }
 
 dt::before{
